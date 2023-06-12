@@ -1,0 +1,127 @@
+body { 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    background-color: #b8c1cf;
+
+} 
+
+/* index html styling */
+
+#geo-title {
+    margin-top: 100px; 
+    margin-bottom: 60px; 
+    font-size: 36px;
+    font-weight: bold;
+    color: #121a42; 
+}
+
+
+#earth-icon {
+    margin-bottom: 30px;
+    font-size: 150px; 
+} 
+
+
+#intro {
+    font-size: 20px;
+    margin-bottom: 30px; 
+    margin-top: 50px;
+}
+
+.btn-primary { 
+    --bs-btn-bg: #8da6c9;
+    --bs-btn-hover-bg: #2a9dbe; 
+    --bs-btn-color: #121a42;
+    margin-left: 5px; 
+    margin-right: 5px; 
+    font-size: 20px; 
+    border-radius: 20px; 
+    
+} 
+
+/* game html styling */
+
+#timer {
+    font-size: 20px; 
+    color: #2a9dbe;
+    margin-top: 80px; 
+    align-items: flex-end;
+    margin-bottom: 50px;
+
+} 
+
+#question {
+    font-size: 30px;
+    color: #121a42; 
+} 
+
+.answer {
+    font-size: 20px; 
+    color: #121a42; 
+} 
+
+.answer:hover {
+    color: #2a9dbe; 
+} 
+
+#submit-question-bt {
+    background-color: #8da6c9;
+    margin-left: 5px; 
+    margin-right: 5px; 
+    font-size: 18px; 
+    border-radius: 20px; 
+    padding: 8px; 
+    width: 150px;
+} 
+#submit-question-bt:hover {
+    background-color:#2a9dbe; 
+}
+
+/* gameover html styling */  
+
+#gameover {
+    font-size: 50px; 
+    margin-top: 100px;  
+    margin-bottom: 50px; 
+    color: #121a42; 
+}
+
+#score {
+    color: #121a42; 
+    font-size: 30px;
+} 
+
+#initial-enter {
+    color: #121a42; 
+    font-size: 20px;  
+    margin-bottom: 40px;
+} 
+
+#initial-input {
+    color: #121a42; 
+    font-size: 20px;  
+    margin-bottom: 18px;
+} 
+
+#submit-button {
+    background-color: #8da6c9;
+    color: #121a42; 
+    margin-left: 5px; 
+    margin-right: 5px;  
+    margin-bottom: 20px;
+    font-size: 20px; 
+    border-radius: 20px; 
+    padding: 6px; 
+    width: 130px;
+}
+
+#submit-button:hover {
+    background-color:#2a9dbe;  
+} 
+
+/* highscore html styling */  
+
+#high-title {
+    margin-top: 50px;
+} 
+
