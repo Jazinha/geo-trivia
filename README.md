@@ -19,4 +19,4 @@ As a user I want to test my knowledge on Geography by taking this short quiz. I 
 ![image](https://github.com/Jazinha/geo-trivia/assets/117381175/ad099fbb-02a5-42cb-9fbb-8773c68da729)
 
 ## Deployment Link
-
+https://jazinha.github.io/geo-trivia/
